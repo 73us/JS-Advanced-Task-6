@@ -9,7 +9,7 @@ export class UserService {
     {
       id: 1,
       userName: 'admin',
-      email: 'admig@gmai.com',
+      email: 'admin@gmail.com',
       password: 'admin',
     },
   ];
