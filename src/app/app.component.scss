@@ -41,6 +41,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 10;
   .modal-block {
     width: 40%;
     background-color: white;
